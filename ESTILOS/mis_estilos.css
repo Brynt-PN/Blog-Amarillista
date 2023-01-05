@@ -5,6 +5,23 @@ body
     font-family: 'Courier New';
 }
 
+#cabecera 
+{
+    background: rgb(211, 211, 11);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: rgb(0, 143, 175);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline 
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 #container 
 {
     width: 70%;
